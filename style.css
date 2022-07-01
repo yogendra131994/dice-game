@@ -1,0 +1,29 @@
+.heading
+{
+  font-family: Comfortaa;
+  text-align: center;
+}
+.dice
+{
+  text-align: center;
+  display: inline-block;
+  padding-top: 0.5%;
+  margin-bottom: 2%;
+}
+.main
+{
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+.d1
+{
+  margin-right: 10rem;
+}
+.result
+{
+  font-family: Comfortaa;
+  padding: 2%;
+  background-color:#A89214;
+  color: white;
+}
